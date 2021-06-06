@@ -21,6 +21,7 @@ const counterSlice = createSlice({
   },
 });
 
+
 export const counterActions = counterSlice.actions; //49) export counterSlice
 
 export default counterSlice.reducer;  //50) just need reducer part to export not entire counterSlice
