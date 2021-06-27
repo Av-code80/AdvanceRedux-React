@@ -22,4 +22,6 @@ function App() {      //37)create useSelector for Auth here
   );                      //35)render Auth component if we're not authenticated & render user profil if authenticated
 }                       //38 and check them => 39)Header.js
 
+
+
 export default App;
